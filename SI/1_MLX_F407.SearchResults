@@ -1,0 +1,4 @@
+---- PowerOFF Matches (3 in 3 files) ----
+Board_IR_V02.h (user):#define  PowerOFF       IO_L(Power_Port,  Power_Pin)
+BOARD_IR_V40.h (user):#define  PowerOFF       IO_L(Power_Port,  Power_Pin)
+ImageHandle.c (my_lib\imagehandle):							PowerOFF;
